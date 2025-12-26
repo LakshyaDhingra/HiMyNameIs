@@ -1,4 +1,7 @@
-**Hi My Name Is..Lakshya Dhingra**
-CS Major
-Participating in Hackathons
-Making Projects
+# Hi My Name Is...
+
+LAKSHYA DHINGRA
+
+## About
+
+I am a CS Major, participating in Hackathons, making projects in languages like React, node.js, next.js, TypeScript, HTML, CSS & JS. Aiming to do something great.
